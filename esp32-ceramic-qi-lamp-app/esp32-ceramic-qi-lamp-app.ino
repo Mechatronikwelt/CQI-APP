@@ -35,6 +35,7 @@
 ************************************************************/
 
 // load RGB LED libary
+//v1.2.0
 #include <Adafruit_NeoPixel.h>
 
 // load Wi-Fi library
@@ -43,6 +44,7 @@
 // load for OLED display
 #include <SPI.h>
 #include <Wire.h>
+//v1.10.3
 #include <Adafruit_GFX.h>
 #include <Adafruit_SH1106.h>
 
